@@ -27,5 +27,5 @@ $spreadsheet = $this->xlsx->spreadsheet();
 ## Get Xlsx Writer Object ##
 
 ```php
-$writer = $this->xlsx->xlsxWriter();
+$writer = $this->xlsx->xlsxWriter($spreadsheet);
 ```
