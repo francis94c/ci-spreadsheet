@@ -1,6 +1,8 @@
 # ci-spreadsheet #
 
-A Code Igniter Wrapper
+A Code Igniter Wrapper for the PHPSpreadSheet Library @ https://github.com/PHPOffice/phpspreadsheet
+
+Base Library Version @ v1.130
 
 ## Installation ##
 
